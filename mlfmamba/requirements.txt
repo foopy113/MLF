@@ -1,0 +1,13 @@
+torch>=1.13.0
+torchvision>=0.14.0
+torchaudio>=0.13.0
+numpy>=1.21.0
+scipy>=1.9.0
+scikit-learn>=1.0.0
+Pillow>=9.0.0
+mamba-ssm>=1.2.0
+einops>=0.6.0
+calflops>=0.1.0
+spectral>=0.23.0
+packaging>=24.0
+triton>=2.2.0
