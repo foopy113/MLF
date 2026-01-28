@@ -2,7 +2,7 @@
 
 ## A Multi-Level Feature Modelling Framework for Hyperspectral Image Classification
 
-This repository provides the official PyTorch implementation of the paper:
+This repository corresponds to the manuscript submitted to The Visual Computer,it provides the official PyTorch implementation of the paper:
 
 
 ---
